@@ -128,7 +128,7 @@ added 20 packages, removed 8 packages, updated 10 packages and moved 2 packages 
 [1]  --------------------------------------
 [1]           UI: http://localhost:3001
 [1]  UI External: http://10.175.30.122:3001
-[0]
+[0
 [0]
 [0]
 [1] 18.05.01 14:08:31 304 GET /index.html
@@ -143,8 +143,6 @@ added 20 packages, removed 8 packages, updated 10 packages and moved 2 packages 
 [0]
 [1] [Browsersync] Reloading Browsers...
 [1] 18.05.01 14:15:22 304 GET /index.html
+``````````
 
-
-``````````````
-
-####See the commands
+#### See the commands
